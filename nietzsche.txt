@@ -1,55 +1,43 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
-{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset222 Ayuthaya;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl280\partightenfactor0
-
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 PREFACE\
-\
-\
-SUPPOSING that Truth is a womanwhat then Is there not ground\
-for suspecting that all philosophers in so far as they have been\
-dogmatists have failed to understand womenthat the terrible\
-seriousness and clumsy importunity with which they have usually paid\
-their addresses to Truth have been unskilled and unseemly methods for\
-winning a woman Certainly she has never allowed herself to be won and\
-at present every kind of dogma stands with sad and discouraged mienIF\
-indeed it stands at all For there are scoffers who maintain that it\
-has fallen that all dogma lies on the groundnay more that it is at\
-its last gasp But to speak seriously there are good grounds for hoping\
-that all dogmatizing in philosophy whatever solemn whatever conclusive\
-and decided airs it has assumed may have been only a noble puerilism\
-and tyronism and probably the time is at hand when it will be once\
-and again understood WHAT has actually sufficed for the basis of such\
-imposing and absolute philosophical edifices as the dogmatists have\
-hitherto reared perhaps some popular superstition of immemorial time\
-such as the soulsuperstition which in the form of subject and\
-egosuperstition has not yet ceased doing mischief perhaps some\
-play upon words a deception on the part of grammar or an\
-audacious generalization of very restricted very personal very\
-humanalltoohuman facts The philosophy of the dogmatists it is to\
-be hoped was only a promise for thousands of years afterwards as was\
-astrology in still earlier times in the service of which probably more\
-labour gold acuteness and patience have been spent than on any\
-actual science hitherto we owe to it and to its superterrestrial\
-pretensions in Asia and Egypt the grand style of architecture It seems\
-that in order to inscribe themselves upon the heart of humanity with\
-everlasting claims all great things have first to wander about the\
-earth as enormous and aweinspiring caricatures dogmatic philosophy has\
-been a caricature of this kindfor instance the Vedanta doctrine in\
-Asia and Platonism in Europe Let us not be ungrateful to it although\
-it must certainly be confessed that the worst the most tiresome\
-and the most dangerous of errors hitherto has been a dogmatist\
-errornamely Platos invention of Pure Spirit and the Good in Itself\
-But now when it has been surmounted when Europe rid of this nightmare\
-can again draw breath freely and at least enjoy a healthiersleep\
-we WHOSE DUTY IS WAKEFULNESS ITSELF are the heirs of all the strength\
-which the struggle against this error has fostered It amounted to\
-the very inversion of truth and the denial of the PERSPECTIVEthe\
-fundamental conditionof life to speak of Spirit and the Good as Plato\
+SUPPOSING that Truth is a womanwhat then Is there not ground
+for suspecting that all philosophers in so far as they have been
+dogmatists have failed to understand womenthat the terrible
+seriousness and clumsy importunity with which they have usually paid
+their addresses to Truth have been unskilled and unseemly methods for
+winning a woman Certainly she has never allowed herself to be won and
+at present every kind of dogma stands with sad and discouraged mienIF
+indeed it stands at all For there are scoffers who maintain that it
+has fallen that all dogma lies on the groundnay more that it is at
+its last gasp But to speak seriously there are good grounds for hoping
+that all dogmatizing in philosophy whatever solemn whatever conclusive
+and decided airs it has assumed may have been only a noble puerilism
+and tyronism and probably the time is at hand when it will be once
+and again understood WHAT has actually sufficed for the basis of such
+imposing and absolute philosophical edifices as the dogmatists have
+hitherto reared perhaps some popular superstition of immemorial time
+such as the soulsuperstition which in the form of subject and
+egosuperstition has not yet ceased doing mischief perhaps some
+play upon words a deception on the part of grammar or an
+audacious generalization of very restricted very personal very
+humanalltoohuman facts The philosophy of the dogmatists it is to
+be hoped was only a promise for thousands of years afterwards as was
+astrology in still earlier times in the service of which probably more
+labour gold acuteness and patience have been spent than on any
+actual science hitherto we owe to it and to its superterrestrial
+pretensions in Asia and Egypt the grand style of architecture It seems
+that in order to inscribe themselves upon the heart of humanity with
+everlasting claims all great things have first to wander about the
+earth as enormous and aweinspiring caricatures dogmatic philosophy has
+been a caricature of this kindfor instance the Vedanta doctrine in
+Asia and Platonism in Europe Let us not be ungrateful to it although
+it must certainly be confessed that the worst the most tiresome
+and the most dangerous of errors hitherto has been a dogmatist
+errornamely Platos invention of Pure Spirit and the Good in Itself
+But now when it has been surmounted when Europe rid of this nightmare
+can again draw breath freely and at least enjoy a healthiersleep
+we WHOSE DUTY IS WAKEFULNESS ITSELF are the heirs of all the strength
+which the struggle against this error has fostered It amounted to
+the very inversion of truth and the denial of the PERSPECTIVEthe
+fundamental conditionof life to speak of Spirit and the Good as Plato
 spoke of them indeed one might ask as a physician How did such a\
 malady attack that finest product of antiquity Plato Had the wicked\
 Socrates really corrupted him Was Socrates after all a corrupter of\
